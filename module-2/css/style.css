@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+h1{
+    text-align: center;
+}
+    
+  
+.row{
+      width: 100%;
+  }
+
+.container{
+    position: relative;
+    top: 20px;
+    border: black solid 1px;
+    background-color: lightgrey;
+    padding: 50px 10px 10px 10px;
+    margin: 10px;
+    
+}
+
+.head1{
+    
+    position: absolute;
+    top: 0;
+    right: 0;
+    border: black solid 1px;
+    padding: 10px;
+}
+#t1{
+    background-color: pink;
+}
+
+#t2{
+    background-color: lightcoral;
+}
+
+#t3{
+    background-color: lightgreen;
+}
+
