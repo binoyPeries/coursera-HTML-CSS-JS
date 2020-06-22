@@ -1,0 +1,33 @@
+section p{
+    padding: 15px;
+    font-family: 'Lora', serif;
+    height: 1000px;
+    width: 100%;
+    background-color: lightgreen;
+}
+
+#main{
+    margin-top: 15px;
+
+}
+.navbar{
+    background-color: lightgrey;
+}
+
+#main h2{
+    margin-bottom: 25px;
+}
+
+.nav-item{
+    font-size: 1.1em;
+    margin-top: 0;
+    margin-bottom: 0;
+    font-weight: bold;
+    
+    
+}
+
+.hr-c{
+    background-color: black;
+    line-height: 1.1em;
+}
